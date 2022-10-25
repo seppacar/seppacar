@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yusuf
-- 👀 I’m interested in Computer Science and Software Developing technologies
+- 👀 I’m interested in Computer Science and Software Development technologies
 - 🌱 I’m currently studying Computer Engineering
 - 📫 You can hit me up on Linkedin https://www.linkedin.com/in/yusufacarr
 
