@@ -1,6 +1,15 @@
--  hmu on Linkedin https://www.linkedin.com/in/yusufacarr
+# Hi there, I'm Yusuf! 👋
 
-<!---
-seppacar/seppacar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a senior student pursuing a Bachelor of Science in Computer Engineering. Currently, I'm enthusiastic about learning and applying my skills in real-world projects.
+
+## 📚 Education
+
+- **Bachelor of Science in Computer Engineering**
+  Karabuk University, 2024 (Expected)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Acar-blue)](https://www.linkedin.com/in/yusufacarr/)
+
+Feel free to reach out to me about anything
+
