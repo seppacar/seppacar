@@ -10,10 +10,10 @@ Karabuk University, Expected Graduation: 2025
 - **Backend Support Engineer** at Jotform (Nov 2024 - Present)
   
 - **Backend Engineer Intern** at Jotform (Jun 2024 – Aug 2024)  
-  Contributed to the development of a feedback collection system using Net Promoter Score (NPS), engineered scalable backend systems, and implemented AI-powered feedback analysis tools.
+  Contributed to the development of a feedback collection system using Net Promoter Score (NPS), engineered scalable backend system, and implemented AI-powered feedback analysis tools.
   
 - **Software Development Intern** at Alpata Teknoloji ve Yazılım (Aug 2023 – Oct 2023)  
-  Built a full-stack meeting organization application using .NET Core and Angular with an N-tier architecture for better scalability and maintainability.
+  Built a full-stack meeting organization application using .NET Core and Angular.
   
 - **Fullstack Developer** at Saruhan Web Agency (Mar 2023 – Jun 2023)  
   Developed and maintained websites for small businesses, including e-commerce platforms with features like online booking, payment processing, and marketplace integrations. Managed both frontend and backend tasks to ensure robust solutions for clients.
